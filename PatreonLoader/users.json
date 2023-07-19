@@ -1,0 +1,45 @@
+{
+   "HERMIT_CRAB":[
+   ],
+   "BLUE_CRAB":[
+  
+   ],
+   "EMERALD_CRAB":[
+     
+   ],
+   "KING_CRAB":[
+      "Maikatura"
+   ],
+   "stats":{
+      "HERMIT_CRAB":0,
+      "BLUE_CRAB":0,
+      "EMERALD_CRAB":0,
+      "GHOST_CRAB":0,
+      "KING_CRAB":1,
+      "PATRONS":1000012371273,
+      "TOTAL":1000012371273,
+      "DATETIME":"2023-07-19T01:26:48.160Z"
+   },
+   "access":{
+      "Maikatura":25,
+      "[1] Local Player":10
+   },
+   "posters":[
+      96132218,
+      4719398,
+      737272,
+      18008246,
+      84456087,
+      8135594,
+      95195775,
+      3499272,
+      4040438,
+      56510431,
+      28273715,
+      7048441,
+      81332136,
+      51121301,
+      68378163,
+      22357285
+   ]
+}
